@@ -5,7 +5,7 @@
 ## 注意事项
 - 获取内容加上[]即可，例如[粉丝数]
 - 链接按钮可选:[视频action(自订文字内容)]，[专栏action(自订文字内容)]
-- 文字内容格式lark_md(markdown格式)  
+-  <font color="green"> 文字内容格式lark_md(markdown格式) </font>  
  
 ## config示例
 ```
